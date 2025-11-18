@@ -1,0 +1,22 @@
+{
+  "name": "messenger-backend-render",
+  "version": "1.0.0",
+  "description": "Node.js and Socket.io server for the mobile messenger application.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "socketio",
+    "messenger"
+  ],
+  "author": "Your Name or Project Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
